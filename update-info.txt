@@ -1,0 +1,27 @@
+🔄 Raco Launcher v2.98.04.32 Güncelleme Notları
+📅 Yayın Tarihi: 5 Nisan 2025
+
+ 🚀 Yeni Özellikler
+- Otomatik Güncelleme Sistemi Eklendi (Updater)
+- Launcher artık kendini güncelleyebiliyor.
+- Güncelleme işlemi sırasında kullanıcı bilgilendirilir.
+
+ 🛡️ Geliştirilmiş Hata Denetimi ve Koruma
+- Kritik dosyalar açılışta kontrol ediliyor.
+- Eksik veya bozuk dosyalar tespit edilirse kullanıcı uyarılıyor.
+- Raco Guard daha hızlı ve hafif çalışacak şekilde optimize edildi.
+
+ ⚙️ Performans ve Stabilite İyileştirmeleri
+- Arayüz gecikmeleri %35 oranında azaltıldı.
+- Bellek kullanımı optimize edildi.
+- Uygulama açılış süresi hızlandırıldı.
+
+ 🎨 Arayüz ve Deneyim Güncellemeleri
+- “İndir” butonu animasyonlu hale getirildi.
+- Açılır pencere için modern geri sayım efekti eklendi.
+- Popup tasarımı yenilendi.
+
+ 🔧 Küçük Düzeltmeler
+- “Çalıştırılamıyor” hatası düzeltildi.
+- Mobil hizalama sorunları giderildi.
+- Gizlilik ve lisans bağlantılarında stil güncellendi.
