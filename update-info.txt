@@ -20,8 +20,3 @@
 - “İndir” butonu animasyonlu hale getirildi.
 - Açılır pencere için modern geri sayım efekti eklendi.
 - Popup tasarımı yenilendi.
-
- 🔧 Küçük Düzeltmeler
-- “Çalıştırılamıyor” hatası düzeltildi.
-- Mobil hizalama sorunları giderildi.
-- Gizlilik ve lisans bağlantılarında stil güncellendi.
